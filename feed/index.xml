@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>portfolioofakbar</title>
+	<atom:link href="https://akliakbar029.github.io/ali/feed/" rel="self" type="application/rss+xml" />
+	<link>https://akliakbar029.github.io/ali</link>
+	<description></description>
+	<lastBuildDate>Sat, 23 Dec 2023 09:39:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Elementor #126</title>
+		<link>https://akliakbar029.github.io/ali/2023/12/23/elementor-126/</link>
+		
+		<dc:creator><![CDATA[ali.com2]]></dc:creator>
+		<pubDate>Sat, 23 Dec 2023 07:56:45 +0000</pubDate>
+				<category><![CDATA[publishrdpost]]></category>
+		<guid isPermaLink="false">https://akliakbar029.github.io/ali/?p=126</guid>
+
+					<description><![CDATA[Welcome to My Portfolio Site Visit My Profile]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="126" class="elementor elementor-126" data-elementor-post-type="post">
+							<div class="elementor-element elementor-element-171b7c3 e-con-full e-flex e-con e-parent" data-id="171b7c3" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}" data-core-v316-plus="true">
+				<div class="elementor-element elementor-element-f2def41 elementor-widget elementor-widget-heading" data-id="f2def41" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.18.0 - 20-12-2023 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">Welcome to My <br> Portfolio Site</h2>		</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-2a58b48 e-flex e-con-boxed e-con e-parent" data-id="2a58b48" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-385476e elementor-widget__width-inherit elementor-absolute elementor-widget elementor-widget-elementskit-button" data-id="385476e" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;motion_fx_translateY_effect&quot;:&quot;yes&quot;,&quot;motion_fx_translateY_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]},&quot;motion_fx_translateY_affectedRange&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:7,&quot;end&quot;:100}},&quot;motion_fx_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;]}" data-widget_type="elementskit-button.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >		<div class="ekit-btn-wraper">
+							<a href="https://akliakbar029.github.io/ali/home/" target="_blank" class="elementskit-btn  whitespace--normal" >
+					
+					
+					Visit My Profile 				</a>
+						</div>
+        </div>		</div>
+				</div>
+					</div>
+				</div>
+							</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
